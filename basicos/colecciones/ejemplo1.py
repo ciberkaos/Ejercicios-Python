@@ -21,4 +21,8 @@ if miLista[2]  > miLista[0]:
 #conjuntos
 miConjunto = {3,4,5,6,5,6,7,3,87,3,3,3,3,3,3,3,3,3,3}
 print("conjunto")
-print(miConjunto)
+print(miConjunto)\
+
+
+#diccionarios
+miDiccionario = {"nombre":"Diego","edad":27}
